@@ -1,0 +1,14 @@
+D:\codes\codes for uni\BitCalculator\BitCalculator\bin\Debug\net6.0\BitCalculator.exe
+D:\codes\codes for uni\BitCalculator\BitCalculator\bin\Debug\net6.0\BitCalculator.deps.json
+D:\codes\codes for uni\BitCalculator\BitCalculator\bin\Debug\net6.0\BitCalculator.runtimeconfig.json
+D:\codes\codes for uni\BitCalculator\BitCalculator\bin\Debug\net6.0\BitCalculator.dll
+D:\codes\codes for uni\BitCalculator\BitCalculator\bin\Debug\net6.0\BitCalculator.pdb
+D:\codes\codes for uni\BitCalculator\BitCalculator\obj\Debug\net6.0\BitCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\codes for uni\BitCalculator\BitCalculator\obj\Debug\net6.0\BitCalculator.AssemblyInfoInputs.cache
+D:\codes\codes for uni\BitCalculator\BitCalculator\obj\Debug\net6.0\BitCalculator.AssemblyInfo.cs
+D:\codes\codes for uni\BitCalculator\BitCalculator\obj\Debug\net6.0\BitCalculator.csproj.CoreCompileInputs.cache
+D:\codes\codes for uni\BitCalculator\BitCalculator\obj\Debug\net6.0\BitCalculator.dll
+D:\codes\codes for uni\BitCalculator\BitCalculator\obj\Debug\net6.0\refint\BitCalculator.dll
+D:\codes\codes for uni\BitCalculator\BitCalculator\obj\Debug\net6.0\BitCalculator.pdb
+D:\codes\codes for uni\BitCalculator\BitCalculator\obj\Debug\net6.0\BitCalculator.genruntimeconfig.cache
+D:\codes\codes for uni\BitCalculator\BitCalculator\obj\Debug\net6.0\ref\BitCalculator.dll
